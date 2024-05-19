@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Geo Data Management System
-This project is a Frontend Component for [geodata-management-system](https://github.com/azurein/geodata-management-system). Deployment using Vercel, CI/CD using integration between Github and Vercel.
+This project is a Frontend Component for [geodata-management-system](https://github.com/azurein/geodata-management-system). Deployment using Vercel https://bvt-dashboard-irwh5maio-cosamas-projects.vercel.app, CI/CD using integration between Github and Vercel.
 
 ## Features (MVP)
 - **Client-Side Data Upload Component:** Intuitive interface for file selection.
